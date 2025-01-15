@@ -16,3 +16,7 @@ Repository: [Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/
 Description: Predicting a Fashion Image using deep learning to predict
 Technologies: TensorFlow, Keras, 
 Respository: [Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/main/Predicting_Fashion_Images_with_Neural_Networks.ipynb)
+5. Predicting Delivery Order Status
+Description: Clssification model to predict
+Technologies: pandas, xgboost, sklearn, matplotlibe
+Respository: [Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/main/ML_Classification_Delivery_Orders_Prediction.ipynb)
